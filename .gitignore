@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Builds
+/out/
+target/
+build/
+
+# Logs
+*.log
+*.txt
+
+# Configs locais
+*.class
+*.jar
+*.war
+*.ear
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE caches
+*.swp
+*.swo

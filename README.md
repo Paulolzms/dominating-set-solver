@@ -87,7 +87,7 @@ make clean    # Remove arquivos .class
 │   ├── GeradorDeInstancias.java
 │   └── ...
 ├── bin/              # Saída da compilação
-├── dados/            # (Opcional) Arquivos de entrada/saída
+├── dados/            # Arquivos de entrada/saída
 ├── resultados/       # Logs de execução
 ├── README.md
 └── Makefile
